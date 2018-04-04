@@ -1,0 +1,19 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "a node.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruceZhangrong/node-test.git"
+  },
+  "author": "Bruce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruceZhangrong/node-test/issues"
+  },
+  "homepage": "https://github.com/bruceZhangrong/node-test#readme"
+}
